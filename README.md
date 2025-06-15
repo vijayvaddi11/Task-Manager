@@ -29,6 +29,7 @@ A simple and responsive Task Management application built using **React + Vite**
 
 ---
 
+```bash
 ## 📁 Project Structure
 
 Task-Manager/
