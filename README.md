@@ -27,6 +27,10 @@ A simple and responsive Task Management application built using **React + Vite**
 - Express
 - In-memory data storage (no database)
 
+![Task manager](https://res.cloudinary.com/vijayvaddi/image/upload/v1750008821/ja1busfwxvdkbia7f7gj.png)
+
+![Task manager](https://res.cloudinary.com/vijayvaddi/image/upload/v1750008829/vbjyqyfyg5t14rhbwuwj.png)
+
 ---
 
 ```bash
@@ -42,6 +46,38 @@ Task-Manager/
 │ └── index.js
 ├── package.json
 └── README.md
+
+
+---
+
+## ⚙️ How to Run the Project
+
+
+
+1. ### 📁 Clone the repository
+
+git clone https://github.com/your-username/Task-Manager.git
+cd Task-Manager
+
+
+
+
+2. ### 📦 Install backend dependencies
+
+### For Backend 
+
+cd backend
+npm install
+npm run server
+
+
+### For frontend
+
+cd frontend
+npm install
+npm run dev
+
+
 
 
 
