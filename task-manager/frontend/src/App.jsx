@@ -60,7 +60,7 @@ function App() {
   return (
     <div className='min-h-screen bg-white-50 py-10 px-4'>
       <div className='max-w-2xl mx-auto bg-white shadow-md rounded-xl p-8'>
-        <h1 className='text-4xl font-bold text-gray-800 mb-6'>Add New Task</h1>
+        <h1 className='text-4xl font-bold text-gray-800 mb-6 text-black'>Add New Task</h1>
 
         <div className='space-y-4 mb-8'>
           <input
